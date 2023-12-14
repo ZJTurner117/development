@@ -1,0 +1,9 @@
+.title {
+    color: blue;
+}
+.paragragh {
+    background-color: red;
+}
+*{
+    box-sizing: border-box;
+}
