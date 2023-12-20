@@ -26,3 +26,6 @@ let newDeleteButton = document.createElement('button')
         newDeleteButton.remove()
     })
 });
+
+
+// getDetails(textContent)
